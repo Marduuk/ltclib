@@ -1,5 +1,5 @@
 {
-    "name": "vendor/litecoin-php-library",
+    "name": "marduuk/litecoin-php-library",
     "type": "library",
     "license": "MIT",
     "require": {},

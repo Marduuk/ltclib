@@ -1,5 +1,5 @@
 {
-    "name": "marduuk/litecoin-php-library",
+    "name": "marduuk/ltclib",
     "type": "library",
     "license": "MIT",
     "require": {},

@@ -2,7 +2,6 @@
     "name": "marduuk/ltclib",
     "type": "library",
     "license": "MIT",
-    "require": {}
-
-
+    "require": {},
+    "version": "1.0.*"
 }
